@@ -10,7 +10,7 @@ class DBConect
 {
     private $conexao;
     private $MYSQL_USUARIO = 'root';
-    private $MYSQL_SENHA = 'sa1234';
+    private $MYSQL_SENHA = '';
     private $MYSQL_IP = 'localhost';
     private $MYSQL_DATABASE = 'projetophp';
 
